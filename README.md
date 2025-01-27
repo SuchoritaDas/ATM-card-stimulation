@@ -15,8 +15,10 @@ c.Deposit funds
 d.Withdraw funds
 
 ##Prerequisites
-
 Python 3.x
+IDLE 3.2
+JUPYTER NOTEBOOK 7.2
+PYCHARM 2024 3.1.1
 
 ##Installation
 1. Clone the repository
@@ -39,5 +41,3 @@ d.Exit
 Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you have any suggestions or improvements.
 
-License
-This project is licensed under the MIT License.
